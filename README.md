@@ -31,6 +31,9 @@ I built this project after the Coursera course **“Data for Business Analysts U
 - **Verify Certificate**: [Coursera Link](https://coursera.org/verify/1XEQR0LGDLIN)
 
 ---
+## 📷 Dashboard Preview
+
+_(Add your dashboard image here in Step 2!)_
 ## 📁 Files Included 
 
 | File | Description |
