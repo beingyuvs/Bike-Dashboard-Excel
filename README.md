@@ -33,7 +33,7 @@ I built this project after the Coursera course **“Data for Business Analysts U
 ---
 ## 📷 Dashboard Preview
 
-_(Add your dashboard image here in Step 2!)_
+![Dashboard Preview](https://github.com/beingyuvs/Bike-Dashboard-Excel/blob/main/Dashboard%20JPG.jpeg?raw=true)
 ## 📁 Files Included 
 
 | File | Description |
