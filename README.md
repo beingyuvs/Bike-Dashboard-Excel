@@ -36,12 +36,11 @@ I built this project after the Coursera course **“Data for Business Analysts U
 ![Dashboard Preview](https://github.com/beingyuvs/Bike-Dashboard-Excel/blob/main/Dashboard%20JPG.jpeg?raw=true)
 ## 📁 Files Included 
 
-| File | Description |
-|------|-------------|
-| `Bike_RawData.xlsx` | Raw dataset used for analysis |
-| `Bike Complete Dashboard.xlsx` | Final Excel dashboard |
-| `Dashboard JPG.jpeg` | Snapshot of dashboard UI |
-
+| File | Description | Link |
+|------|-------------|------|
+| `Bike_RawData.xlsx` | Raw dataset used for analysis | [Download Bike_RawData.xlsx](https://github.com/beingyuvs/Bike-Dashboard-Excel/blob/d2adb239bf2d9e55cc93289a4144af57f00d5c87/Bike_RawData.xlsx) |
+| `Bike Complete Dashboard.xlsx` | Final Excel dashboard | [Download Bike_Dashboaed-Excel.xlsx](https://github.com/beingyuvs/Bike-Dashboard-Excel/blob/d2adb239bf2d9e55cc93289a4144af57f00d5c87/Bike_RawData.xlsx) |
+| `Dashboard JPG.jpeg` | Snapshot of dashboard UI | [View Dashboard Preview](https://github.com/beingyuvs/Bike-Dashboard-Excel/blob/d2adb239bf2d9e55cc93289a4144af57f00d5c87/Dashboard%20JPG.jpeg) |
 ---
 
 > Thanks for checking out my project! Feel free to connect. 🚀
